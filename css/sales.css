@@ -1,0 +1,42 @@
+#content{width:1000px; margin: 0 auto;}     
+.list_price{border-color: #cccccc;margin-bottom:30px; border-collapse: collapse;}
+.cptit{
+    background: #e6e6e6 none repeat scroll 0 0;
+    border-color: #cccccc;
+    font-size: 13px;
+    font-weight: bold;
+    height: 40px;
+    padding-left: 10px;
+}
+.Pickusers{border:1px solid #cccccc;min-width: 300px; min-height: 400px;overflow-y: scroll;padding:10px;}
+.pkusr{margin-left:10px;}
+.adtit{border:1px solid #cccccc;padding: 5px}
+.podd{border:1px solid #cccccc;padding-left: 10px;font-size:12px;}
+.pickusr li,.slusr li{list-style: none;}
+.pickusr,.slusr{margin-left: 0px; padding-left: 0px;}
+h1.page-title{display:none;}
+a.view_details{font-size: 11px;color:#4297d7;}
+.viewdetusr{list-style:initial !important;}
+.hidemychild{display:none;}
+
+.extitle{font-weight: bold;color: #2e6e9e;font-size:12px;padding:5px;border-color:#a6c9e2;}
+.extcontent{font-size: 12px;padding:5px; border-color:#a6c9e2; }
+.exttbl{border:1px solid #a6c9e2;}
+#cpc,.cpc{border: 1px solid #a6c9e2;font-size:12px;padding:0px 5px;width:70px;}
+.totprice{font-weight: bold; font-size: 12px;margin-left:5px;}
+.margin_txt{font-size: 12px;margin-right:10px; }
+#content{width:1009px; margin: 0 auto;}    
+a.viewall{color:#2e6e9e;font-weight: bold; font-size: 12px; text-decoration:underline;}
+.PriceListTitle{color:#2e6e9e; font-size: 12px;}
+.hidedetails{display:none;}
+.pname{border: 1px solid #a6c9e2;font-size:12px;padding:0px 5px;width:250px;} 
+
+#decisionshows,#minmax{display:none;}
+input[disabled="disabled"]{background:#F0F0F0 !important;color:#303030 !important;}
+#editmodjqGrid{min-width:540px;min-height:auto;left:20% !important}
+div#content{width:900px !important; margin:0 auto;}
+.ui-jqgrid .ui-pg-input{padding:0px;}
+td.columns{float:none;}
+input#jqg1{padding:3px;background-color:#fff;border-color:#ccc;}
+#opsname{width:350px;}
+#mailtemp .wp-editor-container{clear:none;}
